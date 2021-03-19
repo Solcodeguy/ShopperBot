@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 *.json
 *.jpg
@@ -27,3 +28,6 @@ uoft-contribution-frontend/build/robots.txt
 uoft-contribution-frontend/build/static/js/2.afe1d4c6.chunk.js
 uoft-contribution-frontend/build/static/js/2.afe1d4c6.chunk.js.LICENSE.txt
 uoft-contribution-frontend/build/static/js/main.d11ad766.chunk.js
+=======
+node_modules
+>>>>>>> cc7d2e0cde9cb34b15055528fb81dc4166e6e791
