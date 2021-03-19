@@ -1,4 +1,4 @@
-# WebSiteBot_PS5
+# ShopperBot_PS5
 This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. It's a very simple program that uses recursion to prevent the code from crashing from running faster than the webpage. There's no promise it'll work everytime though. If the site crashes, the code will stop. There's currently only a bot for Walmart's PS5 disc edition. 
 
 ## Installment
